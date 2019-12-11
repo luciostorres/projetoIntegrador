@@ -1,4 +1,3 @@
 # projetoIntegrador
 
-# Fazer download
-# Instalar módulos do framework
+# Instalar módulos do framework para executar
